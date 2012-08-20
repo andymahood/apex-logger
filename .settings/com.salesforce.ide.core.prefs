@@ -1,0 +1,13 @@
+#Mon Aug 20 15:13:36 BST 2012
+eclipse.preferences.version=1
+endpointApiVersion=25.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=25.0
+keependpoint=false
+metadataFormatVersion=25.0
+namespacePrefix=logger
+packageName=apexlogger
+readTimeout=400
+username=andyjmahood@gmail.com.log
