@@ -3,46 +3,5 @@
     <fullName>apexlogger</fullName>
     <apiAccessLevel>Unrestricted</apiAccessLevel>
     <namespacePrefix>logger</namespacePrefix>
-    <types>
-        <members>Logger</members>
-        <members>LoggerBackup</members>
-        <members>LoggerFactory</members>
-        <members>LoggerRecycleBin</members>
-        <members>LoggerRecycleBinBatch</members>
-        <members>LoggerRecycleBinSchedule</members>
-        <members>LoggerSettings</members>
-        <members>logger_TEST</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>ApexLogger</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>Log__c.Body__c</members>
-        <members>LoggerSettings__c.Value__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Log__c</members>
-        <members>LoggerSettings__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Log__c</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>Log__c-Log Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Log__c.All</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>Loggly</members>
-        <name>RemoteSiteSetting</name>
-    </types>
     <version>25.0</version>
 </Package>
